@@ -1,0 +1,5 @@
+<Page windowPostfix = "Login">
+	<Canvas background = "#ffffff">
+		<Text ref="title" x="0.5" y="0.5" colour="#000000">Hello, World!</Text> <!-- Just a test! -->
+	</Canvas>
+</Page>
