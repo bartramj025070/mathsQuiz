@@ -1,3 +1,7 @@
-<Page windowPostfix = "Login" background = "#ffffff">
-	<Text ref="title" x="0.5" y="0.5" colour="#000000">Hello, World!</Text> <!-- Just a test! -->
+<!--
+Order matters - the most recently defined element will be built last.
+-->
+<Page windowPostfix = "testy westy mewo :3" background = "#000000">
+	<Frame ref="backboard" x="0.5" y="0.5" width="0.5" height="0.2" colour="#161616"/>
+	<Text ref="title" x="0.5" y="0.5" colour="#ffffff">made u look :33</Text>
 </Page>
